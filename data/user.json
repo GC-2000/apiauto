@@ -1,6 +1,8 @@
 {
   "user": "admin",
   "password": "123456",
+  "chrid": "partkey",
+  "hhhh": "hhf"
   "msg": "success",
   "path": "../path"
 }
