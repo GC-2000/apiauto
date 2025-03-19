@@ -1,0 +1,10 @@
+-
+  user:
+    username: admin
+    password: '123456'
+  msg: 'success'
+-
+  user:
+    username: admin
+    password: '123456'
+  msg: '账号或密码错误'
